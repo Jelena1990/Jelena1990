@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **React.**
 
 - 👨‍💻 You may find some of my projects at: [https://jelenavasilesku.com/](https://jelenavasilesku.com/)
-![Uploading litter (1).png…]()
+
 
 - 📫 Please contact me at: **vasilescugjelena@gmail.com**
 
