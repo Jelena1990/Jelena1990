@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jelena</h1>
 <h3 align="center">Web developer and former ITBootCamp student.
   <br/> My passion is creating engaging, meaningful, and memorable user experiences.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"/>
+<img align="right" alt="Coding" width="250" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"/>
 
 - 🌱 I’m currently learning **React.**
 
