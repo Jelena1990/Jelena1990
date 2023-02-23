@@ -1,4 +1,4 @@
-[![MasterHead]([https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy5KN4GokFs6TB33nM23aqj3FZehQW7DiGxw&usqp=CAU) )](https://rishavchanda.io )
+[![MasterHead](https://miro.medium.com/max/1400/0*-aSH2stfVQovM0ZP.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jelena</h1>
 <h3 align="center">Web developer and former ITBootCamp student.
   <br/> My passion is creating engaging, meaningful, and memorable user experiences.</h3>
