@@ -1,3 +1,4 @@
+![ezgif com-resize](https://user-images.githubusercontent.com/98923955/221057473-65a7dfe1-0dfb-47cb-9e9a-015608f2e9f1.gif)
 
 <h1 align="center">Hi 👋, I'm Jelena</h1>
 <h3 align="center">Web developer and former ITBootCamp student.
