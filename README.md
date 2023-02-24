@@ -5,7 +5,7 @@
   <br/> My passion is creating engaging, meaningful, and memorable user experiences.</h3>
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"/>
 
-- 🌱 I’m currently learning **React.**
+- 🌱 I’m currently learning **ReactJS.**
 
 - 👨‍💻 You may find some of my projects at: [https://jelenavasilesku.com/](https://jelenavasilesku.com/)
 
